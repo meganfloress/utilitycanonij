@@ -32,7 +32,7 @@ How to Download Canon IJ Scan Utility on Windows and Mac
 
 ✅ **Step 1:** Visit the Official Canon Support Website  
 Open your preferred web browser and go to:  
-https://ij.start.canon  
+`https://ij.start.canon <https://jivo.chat/KlZSRejpBm>`_ 
 
 This is Canon’s official platform for downloading printer drivers and software.
 
